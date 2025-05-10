@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on frontend web development projects
-- 📫 Email at duttadiya213@outlook.com
+- 📫 Email at duttadiya213@gmail.com
 - 😄 Pronouns: ...She/Her
   
 
