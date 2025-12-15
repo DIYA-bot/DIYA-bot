@@ -70,23 +70,40 @@
 </div>
 
 <br>
+<br>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=💬+Let's+Collaborate+On...;⚡+Building+Scalable+Startups;🤖+Python+Automation+Scripts;🎨+Modern+Website" alt="Typing SVG" />
+</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" /> 
-  <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=sudo+ask+me+about...;%3E+Frontend+Architecture+%26+Design;%3E+Building+Scalable+Startups;%3E+Automation+with+Python;%3E+The+Future+of+SuperX" alt="Ask Me About Animation" />
-  </h3>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Startups-000000?style=flat-square&logo=spacex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Automation-000000?style=flat-square&logo=robotframework&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Open_Source-000000?style=flat-square&logo=open-source-initiative&logoColor=white"/>
-  </p>
-
-  <a href="mailto:duttadiya213@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/DIYA-bot">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=80&width=250&text=Startup%20Eng.&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Architecting%20SuperX&descAlign=50&descAlignY=65" alt="Startup Tile"/>
+        </a>
+      </td>
+      <td align="center">
+         <a href="https://github.com/DIYA-bot">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=80&width=250&text=Automation&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Bots%20%26%20Scripts&descAlign=50&descAlignY=65" alt="Automation Tile"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+         <a href="https://github.com/DIYA-bot">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=80&width=250&text=Full%20Stack&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Python%20%2B%20JS&descAlign=50&descAlignY=65" alt="Full Stack Tile"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:duttadiya213@gmail.com">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=80&width=250&text=Contact%20Me&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Open%20for%20Hiring&descAlign=50&descAlignY=65" alt="Contact Tile"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+<br>
 <br>
 
 <h3 align="center">🤝 Connect with me</h3>
