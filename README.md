@@ -15,7 +15,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <a href="https://superx.blog/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4081&center=false&vCenter=true&width=435&lines=See+what+I've+been+building...;✨+Experience+SuperX+live!+✨" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 <br/>
 
 <a href="https://superx.blog/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_SuperX.blog-FF4081?style=for-the-badge&logoColor=white" height="50" alt="Visit SuperX Website"/>
+  <img src="https://img.shields.io/badge/🌐_Visit_SuperX-FF4081?style=for-the-badge&logoColor=white" height="50" alt="Visit SuperX Website"/>
 </a>
 
 </div>
