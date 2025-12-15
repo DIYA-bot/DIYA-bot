@@ -89,7 +89,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2AF598&background=00000000&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+caffeine;initializing+SuperX+development+sequence...;import+gratitude+from+Swadhin;Thank+you+for+your+support!+%F0%9F%9A%80" alt="Terminal Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2AF598&background=00000000&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+caffeine;initializing+SuperX+development+sequence...;import+gratitude+from+Diya;Thank+you+for+your+support!+%F0%9F%9A%80" alt="Terminal Animation" />
   </a>
 
   <br/>
