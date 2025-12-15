@@ -87,17 +87,25 @@
 </p>
 
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2AF598&background=00000000&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+caffeine;initializing+SuperX+development+sequence...;import+gratitude+from+Diya;Thank+you+for+your+support!+%F0%9F%9A%80" alt="Terminal Animation" />
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      
+<h3>⚠️ SYSTEM ALERT: Caffeine Levels Critical</h3>
 
-  <br/>
+<p>
+<img src="https://progress-bar.dev/15/?scale=100&title=Energy&width=280&color=b91c1c&suffix=%" alt="Energy Bar">
+</p>
 
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/Execute_Donation-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" />
-  </a>
+<p>Restoring energy allows me to push updates to <b>SuperX</b> faster.</p>
 
+<a href="https://www.buymeacoffee.com/YOURUSERNAME">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
+</a>
+
+   </td>
+  </tr>
+</table>
 </div>
   
 <picture>
