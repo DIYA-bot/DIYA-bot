@@ -74,31 +74,33 @@
 
 <br>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=💬+Let's+Collaborate+On...;⚡+Building+Scalable+Startups;🤖+Python+Automation+Scripts;🎨+Modern+UI%2FUX+Design" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Let's+Collaborate+On...;Building+Scalable+Startups;Python+Automation+Scripts;Modern+UI%2FUX+Design" alt="Typing SVG" />
+  </a>
 </h3>
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td align="center">
-        <a href="https://github.com/swadhin-in">
+        <a href="https://github.com/DIYA-bot">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=100&width=400&text=STARTUP%20ENG&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Architecting%20SuperX&descSize=16&descAlign=50&descAlignY=80" alt="Startup Tile"/>
         </a>
       </td>
       <td align="center">
-         <a href="https://github.com/swadhin-in">
+         <a href="https://github.com/DIYA-bot">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=100&width=400&text=AUTOMATION&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Bots%20and%20Python%20Scripts&descSize=16&descAlign=50&descAlignY=80" alt="Automation Tile"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-         <a href="https://github.com/swadhin-in">
+         <a href="https://github.com/DIYA-bot">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=100&width=400&text=FULL%20STACK&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Python%20Flask%20and%20JS&descSize=16&descAlign=50&descAlignY=80" alt="Full Stack Tile"/>
         </a>
       </td>
       <td align="center">
-        <a href="mailto:your-email@example.com">
+        <a href="mailto:duttadiya213@gmail.com">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=100&width=400&text=CONTACT%20ME&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Open%20for%20Collaboration&descSize=16&descAlign=50&descAlignY=80" alt="Contact Tile"/>
         </a>
       </td>
