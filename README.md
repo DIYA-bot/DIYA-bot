@@ -56,14 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIYA-bot&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
 
-<p align="center">
-  <a href="(https://x.com/Diya_developer1)">
-    <img src="https://img.shields.io/twitter/follow/[Diya_developer1]?style=social" alt="twitter" />
-  </a>
-</p>
+
 
 
