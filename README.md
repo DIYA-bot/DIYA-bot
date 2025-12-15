@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Diya</h1>
-
-<h3 align="center">A passionate Software Developer from India</h3>
-
 <div align="center">
-  
-  🔭 I’m currently working on **SuperX (Social/Dating App)** </div>
-  <div align="center">👯 I’m looking to collaborate on <b></b>Open Source Projects</b> </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,2,30&height=230&section=header&text=Hi%20👋%20I'm%20Diya&fontSize=70&animation=fadeIn&fontAlignY=35&desc=A%20passionate%20Software%20Developer%20from%20India&descAlignY=55&descSize=20" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F43F5E&center=true&vCenter=true&width=435&lines=Building+SuperX+(Social%2FDating+App);Collaborating+on+Open+Source;Learning+Advanced+Automation" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Current_Project-SuperX-FF4081?style=for-the-badge&logo=tinder&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Open_Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
