@@ -17,11 +17,7 @@
 
 <br />
 <div align="center">
-  <a href="https://superx.blog/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,25&height=150&section=header&text=🚀%20SuperX&fontSize=70&fontAlignY=50&desc=Experience%20the%20New%20Wave%20of%20Social%20Connection&descSize=20&descAlignY=78&animation=fadeIn" width="100%" alt="SuperX Banner" />
-  </a>
   
-  <br />
   
   <a href="https://superx.blog/" target="_blank">
     <img src="https://img.shields.io/badge/Click_to_Visit-SuperX.blog-FF4081?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1c1c" height="40" alt="Visit Website" />
