@@ -39,11 +39,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 </div>
-
+<br>
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DIYA-bot&theme=dark" alt="Repos per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DIYA-bot&theme=dark" alt="Most Commit Language" />
-  </p>>
+  </p>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIYA-bot&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
