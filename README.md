@@ -54,7 +54,7 @@
   <a href="www.linkedin.com/in/diya-ind">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="(https://www.instagram.com/diyadutta_india)">
+  <a href="https://www.instagram.com/diyadutta_india">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:duttadiya213@gmail.com">
