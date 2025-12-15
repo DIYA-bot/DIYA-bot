@@ -64,7 +64,10 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIYA-bot&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
 </div>
-
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
+</div>
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/diya-ind" target="_blank">
