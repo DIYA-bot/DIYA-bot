@@ -56,7 +56,7 @@
 </a>
 </div>
 <br>
-<p>
+<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DIYA-bot&theme=dark" alt="Repos per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DIYA-bot&theme=dark" alt="Most Commit Language" />
   </p>
