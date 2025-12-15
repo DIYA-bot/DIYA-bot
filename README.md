@@ -40,11 +40,10 @@
 </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/DIYA-bot/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DIYA-bot&theme=dark" alt="Wakatime Stats" />
-</a>
-</div>
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DIYA-bot&theme=dark" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DIYA-bot&theme=dark" alt="Most Commit Language" />
+  </p>>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIYA-bot&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
