@@ -81,7 +81,28 @@
   <a href="mailto:duttadiya213@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="(https://x.com/Diya_developer1)" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </p>
 
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2AF598&background=00000000&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+caffeine;initializing+SuperX+development+sequence...;import+gratitude+from+Swadhin;Thank+you+for+your+support!+%F0%9F%9A%80" alt="Terminal Animation" />
+  </a>
 
+  <br/>
+
+  <a href="https://www.buymeacoffee.com/YOURUSERNAME">
+    <img src="https://img.shields.io/badge/Execute_Donation-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" />
+  </a>
+
+</div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
