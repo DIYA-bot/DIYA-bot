@@ -33,7 +33,7 @@
 
 <div align="center">
 <a href="https://github.com/DIYA-bot/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=xurde24&show_icons=true&theme=dark&count_private=true" alt="xurde24's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=xurde24&show_icons=true&theme=dark&count_private=true" alt="DIYA-bot's GitHub stats" />
 </a>
 <a href="https://github.com/DIYA-bot/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurde24&layout=compact&theme=dark" alt="Top Languages" />
@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=dark" alt="xurde24's GitHub contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
 </div>
 
 <h3 align="center">🤝 Connect with me</h3>
