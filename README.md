@@ -1,62 +1,82 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F43F5E&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+a+Developer;Java+%7C+Python+%7C+Web+Development;Cloud+Enthusiast" alt="Typing SVG" />
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
-
-<br/>
-
-<p>
- 🚀 Passionate about creating scalable software and beautiful web experiences.<br>
- ☁️ Exploring the power of Cloud Computing & Automation.
-</p>
-
----
-
-### 🛠️ Technology Stack
-
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-</p>
-
----
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="languages" height="150" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  
+  🔭 I’m currently working on **SuperX (Social/Dating App)** 🌱 I’m currently learning **Advanced Java OOP & Automation** 👯 I’m looking to collaborate on **Open Source Projects** </div>
 
 ---
 
-### 🤝 Let's Connect
+<h3 align="left">🛠️ Skills</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<h4 align="left">Programming Languages</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+<h4 align="left">Frontend Development</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<h4 align="left">Cloud & BaaS</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</p>
+
+<h4 align="left">Automation</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Automation-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation" />
+</p>
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM_ID]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:[YOUR_EMAIL]@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
+
+<h3 align="left">🏆 Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+
+<p align="center">
+  <a href="https://twitter.com/[YOUR_TWITTER]">
+    <img src="https://img.shields.io/twitter/follow/[YOUR_TWITTER]?style=social" alt="twitter" />
+  </a>
+</p>
+
+<h3 align="left">📕 Latest Blog Posts</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=blue&style=flat" alt="visitors" />
+</p>
