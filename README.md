@@ -66,7 +66,7 @@
 </div>
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=DIYA-bot&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
 
 <br>
@@ -96,7 +96,7 @@
     <tr>
       <td align="center">
          <a href="https://github.com/DIYA-bot">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=100&width=400&text=FRONTL%20END&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=JS%20HTML%20and%20CSS&descSize=16&descAlign=50&descAlignY=80" alt="FRONTEND Tile"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=100&width=400&text=FRONT%20END&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=JS%20HTML%20and%20CSS&descSize=16&descAlign=50&descAlignY=80" alt="FRONTEND Tile"/>
         </a>
       </td>
       <td align="center">
