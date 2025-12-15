@@ -33,21 +33,21 @@
 
 <div align="center">
 <a href="https://github.com/DIYA-bot/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=xurde24&show_icons=true&theme=dark&count_private=true" alt="DIYA-bot's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DIYA-bot&show_icons=true&theme=dark&count_private=true" alt="DIYA-bot's GitHub stats" />
 </a>
 <a href="https://github.com/DIYA-bot/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurde24&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/DIYA-bot/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xurde24&theme=dark" alt="Wakatime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DIYA-bot&theme=dark" alt="Wakatime Stats" />
 </a>
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIYA-bot&theme=dark" alt="DIYA-bot's GitHub contribution graph" />
 </div>
 
 <h3 align="center">🤝 Connect with me</h3>
