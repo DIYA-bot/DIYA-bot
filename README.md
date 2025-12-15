@@ -51,12 +51,14 @@
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/diya-ind">
+  <a href="https://www.linkedin.com/in/diya-ind" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/diyadutta_india">
+  
+  <a href="https://www.instagram.com/diyadutta_india" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="mailto:duttadiya213@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
