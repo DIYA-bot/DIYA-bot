@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="left">Frontend Development</h4>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -32,6 +32,18 @@
 </p>
 
 
+
+
+
+---
+
+
+
+<h3 align="left">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DIYA-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
+</div>
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
@@ -45,18 +57,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-
-
-<h3 align="left">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIYA-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
-</div>
-
-
 
 
 
