@@ -10,7 +10,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Current_Project-SuperX-FF4081?style=for-the-badge&logo=tinder&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Open_Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+ 
 </p>
 
 </div>
