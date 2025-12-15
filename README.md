@@ -71,38 +71,40 @@
 
 <br>
 <br>
+<br>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=💬+Let's+Collaborate+On...;⚡+Building+Scalable+Startups;🤖+Python+Automation+Scripts;🎨+Modern+Website" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=💬+Let's+Collaborate+On...;⚡+Building+Scalable+Startups;🤖+Python+Automation+Scripts;🎨+Modern+UI%2FUX+Design" alt="Typing SVG" />
 </h3>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <a href="https://github.com/DIYA-bot">
+        <a href="https://github.com/swadhin-in">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=80&width=250&text=Startup%20Eng.&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Architecting%20SuperX&descAlign=50&descAlignY=65" alt="Startup Tile"/>
         </a>
       </td>
       <td align="center">
-         <a href="https://github.com/DIYA-bot">
+         <a href="https://github.com/swadhin-in">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=80&width=250&text=Automation&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Bots%20%26%20Scripts&descAlign=50&descAlignY=65" alt="Automation Tile"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-         <a href="https://github.com/DIYA-bot">
+         <a href="https://github.com/swadhin-in">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=80&width=250&text=Full%20Stack&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Python%20%2B%20JS&descAlign=50&descAlignY=65" alt="Full Stack Tile"/>
         </a>
       </td>
       <td align="center">
-        <a href="mailto:duttadiya213@gmail.com">
+        <a href="mailto:your-email@example.com">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=80&width=250&text=Contact%20Me&fontSize=20&fontColor=ffffff&fontAlign=50&desc=Open%20for%20Hiring&descAlign=50&descAlignY=65" alt="Contact Tile"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
+<br>
 <br>
 <br>
 
