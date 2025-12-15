@@ -32,16 +32,16 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DIYA-bot/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=xurde24&show_icons=true&theme=dark&count_private=true" alt="xurde24's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DIYA-bot/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurde24&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DIYA-bot/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xurde24&theme=dark" alt="Wakatime Stats" />
 </a>
 </div>
@@ -50,8 +50,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=dark" alt="xurde24's GitHub contribution graph" />
 </div>
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
   <a href="www.linkedin.com/in/diya-ind">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
