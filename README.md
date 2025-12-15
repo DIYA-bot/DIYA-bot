@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/-Open_Source-000000?style=flat-square&logo=open-source-initiative&logoColor=white"/>
   </p>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:duttadiya213@gmail.com">
     <img src="https://img.shields.io/badge/Send_Me_an_Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" />
   </a>
 </div>
@@ -97,10 +97,6 @@
   
   <a href="https://www.instagram.com/diyadutta_india" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <a href="mailto:duttadiya213@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/Diya_developer1" target="_blank">
   <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
