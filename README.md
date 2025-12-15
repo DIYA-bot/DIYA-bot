@@ -1,17 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,2,30&height=230&section=header&text=Hi%20👋%20I'm%20Diya&fontSize=70&animation=fadeIn&fontAlignY=35&desc=A%20passionate%20Software%20Developer%20from%20India&descAlignY=55&descSize=20" width="100%" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F43F5E&center=true&vCenter=true&width=435&lines=Building+SuperX+(Social%2FDating+App);Collaborating+on+Open+Source;Learning+Advanced+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=2096F3&center=true&vCenter=true&width=500&lines=Hi!+I'm+Diya;Software+Developer+from+India;Building+the+Future+with+Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Current_Project-SuperX-FF4081?style=for-the-badge&logo=tinder&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Open_Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="250">
+      <br/>
+      <b>🔭 Currently Working on</b><br/>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/SuperX-App-FF4081?style=flat-square&logo=visual-studio-code&logoColor=white" alt="SuperX">
+      </a>
+      <br/><br/>
+    </td>
+    <td align="center" width="250">
+      <br/>
+      <b>👯 Looking to Collaborate on</b><br/>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Open_Source-Projects-success?style=flat-square&logo=github&logoColor=white" alt="Open Source">
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
