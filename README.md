@@ -80,7 +80,6 @@
     <img src="https://img.shields.io/badge/-Startups-000000?style=flat-square&logo=spacex&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Automation-000000?style=flat-square&logo=robotframework&logoColor=white"/>
     <img src="https://img.shields.io/badge/-UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Rest_API-000000?style=flat-square&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Open_Source-000000?style=flat-square&logo=open-source-initiative&logoColor=white"/>
   </p>
 
