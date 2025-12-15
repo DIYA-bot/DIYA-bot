@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Diya</h1>
 
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <div align="center">
   
   🔭 I’m currently working on **SuperX (Social/Dating App)** </div>
-  <div align="center">👯 I’m looking to collaborate on **Open Source Projects** </div>
+  <div align="center">👯 I’m looking to collaborate on <b></b>Open Source Projects</b> </div>
 
 ---
 
@@ -52,12 +52,12 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[DIYA-bot]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DIYA-bot]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIYA-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-bot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[DIYA-bot]&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIYA-bot&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <p align="center">
