@@ -10,19 +10,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/Current_Project-SuperX-FF4081?style=for-the-badge&logo=tinder&logoColor=white" />
- 
+  <a href="https://superx.blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Click_to_Visit-SuperX.blog-FF4081?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1c1c" height="40" alt="Visit Website" />
+  </a>
 </p>
 
 </div>
 
 <br />
-<div align="center">
-  
-  
-  <a href="https://superx.blog/" target="_blank">
-    <img src="https://img.shields.io/badge/Click_to_Visit-SuperX.blog-FF4081?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1c1c" height="40" alt="Visit Website" />
-  </a>
-</div>
+
 <br />
 
 ## 💻 Tech Stack:
