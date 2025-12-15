@@ -75,7 +75,7 @@
 <br>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Let's+Collaborate+On...;Building+Scalable+Startups;Python+Automation+Scripts;Modern+UI%2FUX+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Let's+Collaborate+On...;Building+Scalable+Startups;Python+Automation+Scripts;Modern+Web" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -96,7 +96,7 @@
     <tr>
       <td align="center">
          <a href="https://github.com/DIYA-bot">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=100&width=400&text=FULL%20STACK&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Python%20Flask%20and%20JS&descSize=16&descAlign=50&descAlignY=80" alt="Full Stack Tile"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=100&width=400&text=FRONTL%20END&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=JS%20HTML%20and%20CSS&descSize=16&descAlign=50&descAlignY=80" alt="FRONTEND Tile"/>
         </a>
       </td>
       <td align="center">
@@ -134,7 +134,7 @@
 
   <br/>
 
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME">
+  <a href="https://www.buymeacoffee.com/USERNAME">
     <img src="https://img.shields.io/badge/Execute_Donation-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" />
   </a>
 
