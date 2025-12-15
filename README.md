@@ -68,6 +68,28 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%" /> 
+  <h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=sudo+ask+me+about...;%3E+Frontend+Architecture+%26+Design;%3E+Building+Scalable+Startups;%3E+Automation+with+Python;%3E+The+Future+of+SuperX" alt="Ask Me About Animation" />
+  </h3>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Startups-000000?style=flat-square&logo=spacex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Automation-000000?style=flat-square&logo=robotframework&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Rest_API-000000?style=flat-square&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Open_Source-000000?style=flat-square&logo=open-source-initiative&logoColor=white"/>
+  </p>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" />
+  </a>
+</div>
+<br>
+
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/diya-ind" target="_blank">
